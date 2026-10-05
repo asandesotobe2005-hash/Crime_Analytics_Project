@@ -1,0 +1,121 @@
+station_id,station_name,province,urban_type,population,area_km2,has_taxi_rank,unemployment_rate
+ST001,Pearl Heights,KwaZulu-Natal,Rural,12819,1758.2,1,0.313
+ST002,Cedar Junction,Free State,Town,48186,164.8,1,0.26
+ST003,Lotus Gardens,Eastern Cape,Metro,155464,76.0,1,0.245
+ST004,Eagle Junction,KwaZulu-Natal,Rural,18071,2151.2,1,0.538
+ST005,Dune Hills,Western Cape,Metro,175816,68.8,1,0.317
+ST006,Aurora Plains,Western Cape,Metro,155985,53.1,1,0.346
+ST007,Harbour Rand,Eastern Cape,Metro,155356,70.9,1,0.232
+ST008,Ridge Park,KwaZulu-Natal,Metro,143272,52.6,0,0.233
+ST009,Onyx Hills,Gauteng,Metro,217761,82.5,1,0.327
+ST010,Fern Junction,North West,Metro,111383,16.0,0,0.303
+ST011,Cedar Central,Free State,Metro,35852,51.9,1,0.333
+ST012,Ridge Hills,Gauteng,Metro,187378,12.2,1,0.289
+ST013,Kestrel Junction,Eastern Cape,Town,37791,100.5,0,0.367
+ST014,Cedar Valley,Gauteng,Town,46699,386.4,0,0.359
+ST015,Onyx Valley,Limpopo,Town,65625,339.5,1,0.397
+ST016,Tulip Plains,Western Cape,Town,19764,178.1,0,0.398
+ST017,Tulip Central,Limpopo,Town,25286,99.7,0,0.253
+ST018,Dune Plains,Limpopo,Rural,7911,5.0,1,0.315
+ST019,Nova Hills,Mpumalanga,Rural,12996,1173.9,0,0.51
+ST020,Fern Central,Gauteng,Metro,138464,118.1,0,0.371
+ST021,Maple Park,Free State,Metro,142015,70.4,1,0.239
+ST022,Sable Rand,Western Cape,Metro,131603,46.6,1,0.188
+ST023,Pearl Plains,Gauteng,Metro,60663,71.2,0,0.306
+ST024,Nova Central,Eastern Cape,Town,8615,93.9,1,0.406
+ST025,Sable Plains,KwaZulu-Natal,Town,45856,220.3,0,0.458
+ST026,Pearl Bay,North West,Metro,100185,62.4,1,0.331
+ST027,Cedar Gardens,Mpumalanga,Town,52235,241.4,0,0.328
+ST028,Tulip Junction,Western Cape,Town,56055,329.1,1,0.296
+ST029,Onyx Plains,Northern Cape,Metro,125806,68.3,1,0.301
+ST030,Quartz Valley,Western Cape,Rural,22788,1901.0,0,0.432
+ST031,Harbour Gardens,Eastern Cape,Metro,129626,43.5,1,0.239
+ST032,Harbour Central,Western Cape,Rural,21339,2038.7,1,0.573
+ST033,Kestrel Valley,Free State,Metro,90403,99.1,1,0.407
+ST034,Fern Park,Gauteng,Rural,16868,917.9,0,0.518
+ST035,Aurora Rand,Gauteng,Rural,19239,967.4,0,0.395
+ST036,Jade Heights,KwaZulu-Natal,Rural,23169,2301.5,0,0.501
+ST037,Pearl Central,Northern Cape,Rural,15519,1385.2,0,0.488
+ST038,Nova Bay,Free State,Rural,21283,2342.3,0,0.477
+ST039,Ridge Junction,Mpumalanga,Town,40813,205.7,1,0.425
+ST040,Jade Junction,Free State,Rural,17259,2373.0,0,0.488
+ST041,Sable Hills,Free State,Metro,154839,63.2,0,0.344
+ST042,Dune Bay,Eastern Cape,Town,13609,275.8,0,0.388
+ST043,Aurora Bay,Western Cape,Town,24580,406.5,0,0.37
+ST044,Cedar Rand,Mpumalanga,Rural,8662,1282.9,0,0.343
+ST045,Ridge Bay,Limpopo,Town,8245,155.9,0,0.355
+ST046,Granite Plains,KwaZulu-Natal,Town,34317,205.1,1,0.317
+ST047,Kestrel Park,Gauteng,Town,56803,295.2,1,0.273
+ST048,Aurora Hills,Mpumalanga,Metro,108034,22.4,1,0.401
+ST049,Fern Valley,Western Cape,Metro,128307,75.3,1,0.404
+ST050,Iris Valley,Free State,Town,62155,196.1,1,0.432
+ST051,Iris Heights,Western Cape,Town,65911,364.8,1,0.365
+ST052,Jade Hills,Gauteng,Metro,117096,5.0,1,0.381
+ST053,Iris Rand,North West,Town,66318,171.3,0,0.351
+ST054,Cedar Plains,Gauteng,Town,46450,81.4,1,0.362
+ST055,Kestrel Hills,Gauteng,Town,31810,167.4,1,0.284
+ST056,Nova Valley,Eastern Cape,Town,35638,274.8,0,0.374
+ST057,Sable Central,North West,Town,21681,232.1,0,0.354
+ST058,Jade Valley,Gauteng,Metro,82698,53.9,1,0.222
+ST059,Aurora Heights,Western Cape,Rural,15744,1404.5,0,0.447
+ST060,Iris Junction,Mpumalanga,Rural,23062,1622.0,0,0.445
+ST061,Dune Heights,Northern Cape,Town,72102,149.1,1,0.458
+ST062,Aurora Valley,Eastern Cape,Town,23230,320.7,1,0.404
+ST063,Onyx Bay,Gauteng,Town,51187,316.3,0,0.351
+ST064,Iris Park,Gauteng,Rural,11444,1731.0,0,0.465
+ST065,Granite Hills,Western Cape,Town,52476,305.7,0,0.353
+ST066,Kestrel Bay,Gauteng,Rural,17174,1677.9,0,0.438
+ST067,Fern Gardens,Limpopo,Town,16163,453.5,0,0.285
+ST068,Granite Junction,Gauteng,Town,59620,241.3,1,0.341
+ST069,Fern Heights,Eastern Cape,Metro,94589,52.6,1,0.255
+ST070,Cedar Hills,Limpopo,Rural,14636,1047.9,0,0.375
+ST071,Pearl Gardens,Eastern Cape,Metro,75070,35.2,1,0.331
+ST072,Bright Heights,Gauteng,Town,34695,125.6,0,0.373
+ST073,Lotus Heights,Mpumalanga,Rural,20695,966.7,0,0.343
+ST074,Lotus Hills,Limpopo,Metro,112051,58.3,1,0.293
+ST075,Aurora Central,Mpumalanga,Town,50176,283.4,0,0.41
+ST076,Tulip Rand,Gauteng,Metro,135200,61.2,1,0.364
+ST077,Iris Hills,Gauteng,Rural,26320,1040.7,0,0.512
+ST078,Granite Heights,Free State,Metro,105602,81.6,1,0.302
+ST079,Lotus Valley,KwaZulu-Natal,Rural,8695,1943.6,0,0.399
+ST080,Iris Central,Western Cape,Metro,164823,56.2,1,0.235
+ST081,Dune Rand,KwaZulu-Natal,Rural,15911,1108.3,0,0.471
+ST082,Nova Park,Limpopo,Rural,25021,1829.1,0,0.473
+ST083,Quartz Gardens,Northern Cape,Town,51038,268.8,0,0.427
+ST084,Sable Junction,Western Cape,Rural,17173,631.1,0,0.516
+ST085,Bright Bay,Free State,Rural,20197,1459.2,0,0.442
+ST086,Pearl Rand,Gauteng,Rural,30291,1657.2,1,0.375
+ST087,Maple Plains,Eastern Cape,Metro,207233,38.4,1,0.281
+ST088,Aurora Gardens,Limpopo,Town,46092,269.0,0,0.363
+ST089,Iris Gardens,Gauteng,Metro,126728,25.1,1,0.288
+ST090,Maple Valley,Gauteng,Town,61950,383.6,1,0.315
+ST091,Eagle Hills,KwaZulu-Natal,Metro,84482,90.0,1,0.315
+ST092,Ridge Valley,Northern Cape,Town,50245,224.7,0,0.32
+ST093,Nova Gardens,Eastern Cape,Town,44592,286.3,1,0.312
+ST094,Maple Bay,Free State,Town,49944,9.0,1,0.369
+ST095,Maple Junction,Mpumalanga,Town,31874,134.4,1,0.326
+ST096,Tulip Park,KwaZulu-Natal,Rural,7985,1323.7,1,0.465
+ST097,Onyx Junction,Mpumalanga,Rural,4940,856.7,0,0.466
+ST098,Nova Heights,Gauteng,Town,27401,321.4,0,0.282
+ST099,Kestrel Plains,Gauteng,Town,37775,449.7,1,0.321
+ST100,Ridge Central,North West,Rural,16152,794.0,1,0.536
+ST101,Tulip Gardens,Mpumalanga,Metro,201363,39.9,1,0.23
+ST102,Iris Bay,Western Cape,Metro,166451,65.7,1,0.173
+ST103,Eagle Gardens,Eastern Cape,Metro,79592,98.7,1,0.188
+ST104,Jade Central,Eastern Cape,Town,50476,127.8,0,0.352
+ST105,Maple Hills,North West,Town,38588,274.9,1,0.352
+ST106,Bright Hills,Eastern Cape,Rural,16208,2592.8,0,0.443
+ST107,Tulip Heights,KwaZulu-Natal,Town,47918,84.8,1,0.423
+ST108,Harbour Hills,KwaZulu-Natal,Town,54751,121.9,1,0.19
+ST109,Pearl Junction,KwaZulu-Natal,Rural,15862,1245.8,1,0.474
+ST110,Maple Central,Limpopo,Rural,24702,1187.6,1,0.544
+ST111,Ridge Rand,North West,Metro,72038,79.5,0,0.232
+ST112,Harbour Heights,KwaZulu-Natal,Town,45099,274.2,1,0.327
+ST113,Tulip Hills,Western Cape,Town,85913,72.5,0,0.305
+ST114,Lotus Park,Western Cape,Metro,129369,72.4,1,0.246
+ST115,Jade Park,Mpumalanga,Metro,180195,46.1,1,0.28
+ST116,Kestrel Central,North West,Rural,18576,2264.7,0,0.536
+ST117,Harbour Bay,Gauteng,Town,54147,187.2,0,0.46
+ST118,Lotus Rand,Gauteng,Town,44105,186.3,0,0.33
+ST119,Cedar Park,Eastern Cape,Rural,16926,1824.7,0,0.564
+ST120,Pearl Park,Gauteng,Town,32723,326.3,1,0.352
